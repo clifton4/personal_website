@@ -2,3 +2,14 @@ body{
     background-color: black;
     color: white;
 }
+
+
+.scroll_window{
+    border-top: 1px solid white;
+}
+
+.scroll_item{
+    border: 1px outset rgb(106, 114, 235);
+    padding: 0px;
+    margin: 5px;
+}
