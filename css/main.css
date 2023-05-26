@@ -6,6 +6,7 @@ body{
 
 .scroll_window{
     border-top: 1px solid white;
+    overflow-x: scroll;
 }
 
 .scroll_item{
